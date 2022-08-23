@@ -1,6 +1,6 @@
 # Backend-APIs
 
-Install all Required backage
+Install all Required package
 --npm i
 
 Create Postgres Database "tis"
